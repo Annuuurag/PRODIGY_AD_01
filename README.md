@@ -1,3 +1,3 @@
-this is a simple calculator made using java in Android studio.
-this app able to perform the basic arithmetic operations i.e Addition, Subtraction, multiplication, division.
-this app also consist of a ON & OFF button, a AC button and a DEL (delete) button
+this is a simple calculator made using Java in Android Studio.
+this app can perform the basic arithmetic operations i.e. Addition, Subtraction, multiplication, division.
+this app also consists of an ON & OFF button, an AC button and a DEL (delete) button
